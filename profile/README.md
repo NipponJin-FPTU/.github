@@ -1,4 +1,11 @@
 # 私たちはＦＰＴ大学がとても大好きです。(〃￣︶￣)人(￣︶￣〃)(〃￣︶￣)人(￣︶￣〃)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/fd/17/51/fd175129e200299ec0dba35fcffd87fc.gif" height="150">
+  <img src="https://c.tenor.com/lUU2wbgHrioAAAAC/tenor.gif" height="150">
+  <img src="https://i.pinimg.com/originals/fd/17/51/fd175129e200299ec0dba35fcffd87fc.gif" height="150">
+</p>
+
+
 
 <!--
 
